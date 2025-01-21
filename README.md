@@ -47,10 +47,10 @@ Right now, I am expanding my knowledge to new technologies and languages through
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </span>
 
-### Portfolio
+### 🖥 Portfolio
 Make sure to visit [my web portfolio](https://dayv1d-portfolio.netlify.app) to see some details of my experience, other projects and more information about me, including my CV which is downloadable.
 
-<img src="./portfolio.png" alt="Dayv1d Portfolio">
+<img width="700px" src="./portfolio.png" alt="Dayv1d Portfolio">
 
 
 <!--
