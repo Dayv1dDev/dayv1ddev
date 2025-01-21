@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Dayv1d" src="./profile_aside.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"> About me
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="15px"> About me
 
 I am a Junior Front-end Developer and a Web development student who is filled with the enthusiasm to start working in further projects. I consider myself a person that it's going to work very hard to overcome and achieve the challenges and goals I will have in my near future. 
 
@@ -13,9 +13,9 @@ Right now, I am expanding my knowledge to new technologies and languages through
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### _ Front-end 
+#### _Front-end 
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -24,13 +24,13 @@ Right now, I am expanding my knowledge to new technologies and languages through
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </span>
 
-### _ Back-end
+#### _Back-end
 <span> 
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
-### _ Other tools
+#### _Other tools
 <span> 
   <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -39,7 +39,7 @@ Right now, I am expanding my knowledge to new technologies and languages through
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </span>
 
-### _ Learning...
+#### _Learning...
 <span> 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
