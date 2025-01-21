@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I am David Moreno Cámara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I am David Moreno Cámara! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width=300px alt="Dayv1d" src="./profile_aside.gif" />
 
@@ -9,7 +9,7 @@ I am a Junior Front-end Developer and a Web development student who is filled wi
 Right now, I am expanding my knowledge to new technologies and languages through out Front-end development mainly, even so, I am open to learn Back-end as my final goal is to be a Full Stack developer. 
 
 - ✔ Ask me about any doubt you have, I would be happy to help
--
+- ✍ I am excited to join a development team to work hard and give all my strengths to improve myself and my skills in that environment.
 - 📫 Reach me out via email: [davidmorecam@gmail.com](mailto:davidmorecam@gmail.com)
 
 ---
@@ -46,6 +46,12 @@ Right now, I am expanding my knowledge to new technologies and languages through
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </span>
+
+### Portfolio
+Make sure to visit [my web portfolio](https://dayv1d-portfolio.netlify.app) to see some details of my experience, other projects and more information about me, including my CV which is downloadable.
+
+<img src="./portfolio.png" alt="Dayv1d Portfolio">
+
 
 <!--
 **Dayv1dDev/dayv1ddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
