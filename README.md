@@ -2,18 +2,18 @@
 
 <img align="right" width=300px alt="Dayv1d" src="./profile_aside.gif" />
 
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"> <b>About me</b></h2>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"> <b>About me</b>
 
 I am a Junior Front-end Developer and a Web development student who is filled with the enthusiasm to start working in further projects. I consider myself a person that it's going to work very hard to overcome and achieve the challenges and goals I will have in my near future. 
 
 Right now, I am expanding my knowledge to new technologies and languages through out Front-end development mainly, even so, I am open to learn Back-end as my final goal is to be a Full Stack developer. 
 
-- ✔✅ Ask me about any doubt you have, I would be happy to help
+- ✔ Ask me about any doubt you have, I would be happy to help
 - 
 
 ---
 
-<h2>🛠️ <b>Tech Stack</b></h2>
+## <b>🛠️ Tech Stack</b>
 
 ### _ Front-end
 <span> 
