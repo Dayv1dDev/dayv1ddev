@@ -9,7 +9,8 @@ I am a Junior Front-end Developer and a Web development student who is filled wi
 Right now, I am expanding my knowledge to new technologies and languages through out Front-end development mainly, even so, I am open to learn Back-end as my final goal is to be a Full Stack developer. 
 
 - ✔ Ask me about any doubt you have, I would be happy to help
-- 
+-
+- 📫 Reach me out via email: [davidmorecam@gmail.com](mailto:davidmorecam@gmail.com)
 
 ---
 
