@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Dayv1d" src="./profile_aside.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"> <b>About me</b>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="18px"> About me
 
 I am a Junior Front-end Developer and a Web development student who is filled with the enthusiasm to start working in further projects. I consider myself a person that it's going to work very hard to overcome and achieve the challenges and goals I will have in my near future. 
 
@@ -13,7 +13,7 @@ Right now, I am expanding my knowledge to new technologies and languages through
 
 ---
 
-## <b>🛠️ Tech Stack</b>
+## 🛠️ Tech Stack
 
 ### _ Front-end
 <span> 
